@@ -1,3 +1,5 @@
+# code obtained from link https://github.com/robertmonjo/drought
+
 #######################################################################################
 #                                    ABSOLUTE N-INDEX   (CLASSIC)                     #
 # Author: Robert Monjo                                                                #

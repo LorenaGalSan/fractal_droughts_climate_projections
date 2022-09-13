@@ -65,5 +65,4 @@ if(length(qq$x) > 1)
     
     cd <- lm4$coefficients[2] 
   }
-  
 }

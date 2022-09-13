@@ -10,9 +10,7 @@ R <- readRDS("pr_Historical_MPI-ESM1-2-HR_local_point.rds")
 ## taking as 1 those precipitation values higher than 1 mm and as 0 the rest.
 
 R.sp <- rle(ifelse(R>1,1,0)) 
-
 dr <- R.sp$lengths[R.sp$values==0]
-
 dr <- dr[!is.na(dr)]
 
 

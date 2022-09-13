@@ -2,6 +2,7 @@
 # loading precipitation data 
 
 ## data from a selected point at coordinates (4.544939°N, 27.136937°E), MPI-ESM1-2-HR CMIP6 model, historical experiment 
+
 R <- readRDS("pr_Historical_MPI-ESM1-2-HR_local_point.rds")
 
 
@@ -17,7 +18,8 @@ dr <- dr[!is.na(dr)]
 
 
 # loading "n-index.r" functions (from link https://github.com/robertmonjo/drought)
-source("n-index.r") #incluir de alguna forma
+
+source("n-index.r") 
 
 
 # computing n index

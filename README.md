@@ -1,8 +1,6 @@
 # Will the world experience more fractal droughts?
 Lorena Galiano, Robert Monjo, Dominic Royé, Javier Martin-Vide
 
-[![DOI](https://zenodo.org/badge/524061328.svg)](https://zenodo.org/badge/latestdoi/524061328)
-
 
 ## Abstract
 

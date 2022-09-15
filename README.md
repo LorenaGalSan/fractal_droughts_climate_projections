@@ -43,4 +43,7 @@ source("scripts/fractal_indices_calculation/Gini_index_local_point.R")
 ```
 
 
+## How to cite
+
+Data: Galiano,L; Monjo, R; Royé, D; Martin-Vide, J. (202). Drought lacunarity around the world and its classification. doi: 10.5281/zenodo.7043297
 

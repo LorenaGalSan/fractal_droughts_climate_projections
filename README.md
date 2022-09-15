@@ -24,5 +24,23 @@ As result, our first figure appears:
 
 To indicate how the fractal indices has been calculated, the precipitation time series corresponding to a grid point with coordinates (4.544939°N, 27.136937°E) for the MPI-ESM1-2-HR CMIP6 model under the historical experiment is selected.
 
+## n-index
+
+```{r, echo=FALSE}
+source("fractal_indices_calculation/N_index_local_point.R")
+```
+
+## Cantor-based exponent
+
+```{r, echo=FALSE}
+source("fractal_indices_calculation/Cantor-based_exponent_local_point.R")
+```
+
+## Gini index
+
+```{r, echo=FALSE}
+source("fractal_indices_calculation/Gini_index_local_point.R")
+```
+
 
 

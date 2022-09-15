@@ -20,6 +20,7 @@ As result, a figure appears:
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ![This is an image](https://github.com/LorenaGalSan/fractal_droughts_climate_projections/blob/main/README_files/Figure_1.svg)
+![This is an image](https://github.com/LorenaGalSan/fractal_droughts_climate_projections/blob/main/README_files/Figure_1.png)
 
 
 

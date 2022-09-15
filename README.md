@@ -20,23 +20,23 @@ As result, our first figure appears:
 ![Figure_1](https://user-images.githubusercontent.com/110187434/190433141-bf478a10-cc15-4ca7-8047-fcde23479f81.PNG)
 
 
-# Calculating fractal indices on selected grid point
+## Calculating fractal indices on selected grid point
 
 To indicate how the fractal indices has been calculated, the precipitation time series corresponding to a grid point with coordinates (4.544939°N, 27.136937°E) for the MPI-ESM1-2-HR CMIP6 model under the historical experiment is selected.
 
-## n-index
+### n-index
 
 ```{r, echo=FALSE}
 source("scripts/fractal_indices_calculation/N_index_local_point.R")
 ```
 
-## Cantor-based exponent
+### Cantor-based exponent
 
 ```{r, echo=FALSE}
 source("scripts/fractal_indices_calculation/Cantor-based_exponent_local_point.R")
 ```
 
-## Gini index
+### Gini index
 
 ```{r, echo=FALSE}
 source("scripts/fractal_indices_calculation/Gini_index_local_point.R")

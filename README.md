@@ -17,31 +17,6 @@ source("Figure_1.R")
 
 As result, a figure appears:
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
-![This is an image](https://github.com/LorenaGalSan/fractal_droughts_climate_projections/blob/main/README_files/Figure_1.svg)
-
-![This is an image](https://github.com/LorenaGalSan/fractal_droughts_climate_projections/blob/main/README_files/Figure_1.png)
-
-![This is an image](README_files/Figure_1.png)
-
-![This is an image](../README_files/Figure_1.png)
-
-
-![This is an image](blob/main/README_files/Figure_1.png)
-
-![This is an image](/../fractal_droughts_climate_projections/README_files/Figure_1.png)
-
-![This is an image](/../blob/main/README_files/Figure_1.svg)
-
-![This is an image](/../blob/main/README_files/Figure_1.PNG)
-
-![This is an image](/../blob/main/README_files/Figure_1.png)
-
-Creo que esta es la manera más acertada!
-![This is an image](../README_files/Figure_1.PNG)
-
-
-![This is an image](/../main/assets/images/electrocat.png)
+![Figure_1](https://user-images.githubusercontent.com/110187434/190433141-bf478a10-cc15-4ca7-8047-fcde23479f81.PNG)
 
 

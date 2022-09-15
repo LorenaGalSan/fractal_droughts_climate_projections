@@ -45,5 +45,5 @@ source("scripts/fractal_indices_calculation/Gini_index_local_point.R")
 
 ## How to cite
 
-Data: Galiano,L; Monjo, R; Royé, D; Martin-Vide, J. (202). Drought lacunarity around the world and its classification. doi: 10.5281/zenodo.7043297
+Code Availability: Galiano,L; Monjo, R; Royé, D; Martin-Vide, J. (2022). Fractal drougth climate projections. [doi: 10.5281/zenodo.7043297](https://doi.org/10.5281/zenodo.7043297)
 

@@ -39,7 +39,7 @@ As result, a figure appears:
 ![This is an image](/../blob/main/README_files/Figure_1.png)
 
 Creo que esta es la manera más acertada!
-![This is an image](../README_files/Figure_1.png)
+![This is an image](../README_files/Figure_1.PNG)
 
 
 ![This is an image](/../main/assets/images/electrocat.png)

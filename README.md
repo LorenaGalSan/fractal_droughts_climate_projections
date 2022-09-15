@@ -15,6 +15,12 @@ Meteorological droughts will become the principal factor driving compound hot-dr
 source("Figure_1.R")
 ```
 
-As result, a figure appears
+As result, a figure appears:
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![This is an image](https://github.com/LorenaGalSan/fractal_droughts_climate_projections/blob/main/README_files/Figure_1.svg)
+
+
 
 

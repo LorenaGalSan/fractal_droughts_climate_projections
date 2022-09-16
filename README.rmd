@@ -19,7 +19,8 @@ Meteorological droughts will become the principal factor driving compound hot-dr
 ## Mapping drought simulation by climate models
 
 ```{r, echo=FALSE}
-source("scripts/Figure_1.R")
+setwd("scripts")
+source("Figure_1.R")
 ```
 
 
@@ -30,19 +31,22 @@ To indicate how the fractal indices has been calculated, the precipitation time 
 ### n-index
 
 ```{r, echo=FALSE}
-source("scripts/fractal_indices_calculation/N_index_local_point.R")
+setwd("scripts/fractal_indices_calculation")
+source("N_index_local_point.R")
 ```
 
 ### Cantor-based exponent
 
 ```{r, echo=FALSE}
-source("scripts/fractal_indices_calculation/Cantor-based_exponent_local_point.R")
+setwd("scripts/fractal_indices_calculation")
+source("Cantor-based_exponent_local_point.R")
 ```
 
 ### Gini index
 
 ```{r, echo=FALSE}
-source("scripts/fractal_indices_calculation/Gini_index_local_point.R")
+setwd("scripts/fractal_indices_calculation")
+source("Gini_index_local_point.R")
 ```
 
 

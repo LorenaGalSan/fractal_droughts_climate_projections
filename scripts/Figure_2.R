@@ -8,7 +8,7 @@ library(classInt)
 library(patchwork)
 
 # data 
-r <- dir_ls("data_figure_1") %>% map(rast)
+r <- dir_ls("data_figure_2") %>% map(rast)
 
 limits <- ne_coastline(50, returnclass = "sf")
 

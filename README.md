@@ -11,7 +11,7 @@ Meteorological droughts will become the principal factor driving compound hot-dr
 
 ```{r, echo=FALSE}
 setwd("scripts")
-source("Figure_1.R")
+source("Figure_2.R")
 ```
 
 As result, our first figure appears:
